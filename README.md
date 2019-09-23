@@ -1,4 +1,4 @@
-**(2012-2013: 3rd Year, Minor Project)**
+**(2012-2013: 4th Year, Minor Project)**
 
 ![Logo](_doc/images/Logo_SPA.png)
 
@@ -47,7 +47,7 @@ Click [here](_Publish/PPT_SalesAnalyzer.pdf) to download Power-Point presentatio
 |    |   |
 |---|---|
 | ![](_doc/images/2_Registration.png)   | ![](_doc/images/5_Login.png)  |
-| ![](_doc/images/6_Main Menu.png)  | ![](_doc/images/7_2_Add_Definations.png)  |
+| ![](_doc/images/6_Main_Menu.png)  | ![](_doc/images/7_2_Add_Definations.png)  |
 | ![](_doc/images/7_3_Add_Table.png)  | ![](_doc/images/7_4_Add_Graph1.png)  |
 | ![](_doc/images/7_5_Add_Graph2.png)  | ![](_doc/images/7_15_Add_Q5_1.png)  |
 | ![](_doc/images/7_20_Add_Report.png)  | ![](_doc/images/11_Settings.png)  |
